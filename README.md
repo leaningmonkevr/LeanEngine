@@ -1,2 +1,2 @@
 # LeanEngine
-This is a engine built on PsychEngine
+This is a engine built on PsychEngine/FunkinEngine
